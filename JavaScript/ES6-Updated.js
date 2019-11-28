@@ -1,7 +1,3 @@
-import {
-  access,
-  readlink
-} from "fs";
 
 // function - A block of code that performs a specific task
 // 1.
