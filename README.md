@@ -1,7 +1,7 @@
 # ES6-basics
 ECMAScript 2015, also known as ES6, is a fundamental version of the ECMAScript standard.
 ES6 is next gen JavaScript syntax. There are also some added features in the ES6 version of JavaScript such as arrow functions , rest and spread operator, destructuring , promises etc.
-Even if you are targeting legacy browsers such as I.E11, you can still use ES6 with the babel compiler.
+Even if you are targeting legacy browsers such as Internet Explorer 11, you can still use ES6 with the babel compiler.
 
 CONTENTS :
 1.Template Strings//
