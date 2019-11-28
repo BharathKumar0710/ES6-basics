@@ -1,6 +1,7 @@
 # ES6-basics
+ECMAScript 2015, also known as ES6, is a fundamental version of the ECMAScript standard.
 
-Features of ES6 with example codes
+Features of ES6 with codes as examples are explained here.
 
 CONTENTS :
 1.Template Strings//
